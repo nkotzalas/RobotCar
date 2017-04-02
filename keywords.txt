@@ -1,0 +1,11 @@
+RobotCar	KEYWORD1
+initializeAccelerometer	KEYWORD2
+initializeDistanceSensor	KEYWORD2
+initializeRightMotor	KEYWORD2
+initializeLeftMotor	KEYWORD2
+moveForward	KEYWORD2
+moveBackwards	KEYWORD2
+turnRight	KEYWORD2
+turnLeft	KEYWORD2
+brake	KEYWORD2
+calculateOrientation	KEYWORD2

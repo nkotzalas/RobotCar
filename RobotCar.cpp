@@ -23,8 +23,6 @@ Adafruit_LSM303_Mag_Unified mag;
 int _distanceSensorTrigPin = 7;
 int _distanceSensorEchoPin = 4;
 
-//TODO: Use the FourWRobot library
-
 /**
  * Constructor of the movement handler
  */
